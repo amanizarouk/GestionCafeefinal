@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GestionCafee</string>
+
+    <string name="email">Email</string>
+    <string name="Surname">name</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Homme">Homme</string>
+    <string name="Femme">Femme</string>
+</resources>
